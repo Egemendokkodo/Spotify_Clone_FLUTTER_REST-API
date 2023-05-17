@@ -3,11 +3,11 @@ import 'dart:convert';
 
 class ApiOperations {
   final String featured_api_url =
-      "https://v1.nocodeapi.com/aaaaa131/spotify/SuUbHSJpCrsowjur/browse/featured?perPage=7";
+      "?perPage=7";
   final String user_album_api_url =
-      "https://v1.nocodeapi.com/aaaaa131/spotify/SuUbHSJpCrsowjur/myPlaylists";
+      "";
   final String categories_url =
-      "https://v1.nocodeapi.com/aaaaa131/spotify/SuUbHSJpCrsowjur/browse/categories";
+      "";
 
   Future<Map<String, dynamic>> fetchFeatured() async {
     final response = await http.get(Uri.parse(featured_api_url));
