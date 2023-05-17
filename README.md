@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# spotify_clone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# spotify_clone_flutter_api
-I created a spotify clone ui and showed data via NocodeApI SpotifyAPI
->>>>>>> c6449c487a57ce8c36ffbc45bd03e24f48320130
+![1](https://github.com/Egemendokkodo/Spotify_Clone_FLUTTER_REST-API/assets/70278989/7ca00383-da23-4ba6-8198-f9c4d484ecae)
+![2](https://github.com/Egemendokkodo/Spotify_Clone_FLUTTER_REST-API/assets/70278989/9dc0a224-0939-4ffa-945c-5dac01cbb827)
+![3](https://github.com/Egemendokkodo/Spotify_Clone_FLUTTER_REST-API/assets/70278989/cea3fd96-12d8-4bcd-b225-b17b487cac84)
